@@ -1,0 +1,6 @@
+{
+  "name": "Mahakal Rasoi - SaaS Ledger & Member Management",
+  "description": "Comprehensive SaaS Accounting System with Day Book, Ledger Book, Member Book, Vendor Book, Token Currency Counter, Excel Backup, and Google Apps Script (.gs) Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
